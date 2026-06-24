@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/learner9909/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/learner9909/LeetCode/tree/master/0054-spiral-matrix) |
+| [0135-candy](https://github.com/learner9909/LeetCode/tree/master/0135-candy) |
 ## Math
 |  |
 | ------- |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/learner9909/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/learner9909/LeetCode/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
