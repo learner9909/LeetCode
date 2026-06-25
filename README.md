@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/learner9909/LeetCode/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/learner9909/LeetCode/tree/master/0402-remove-k-digits) |
 ## Backtracking
 |  |
 | ------- |
@@ -65,4 +66,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/learner9909/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## String
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/learner9909/LeetCode/tree/master/0402-remove-k-digits) |
+## Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/learner9909/LeetCode/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/learner9909/LeetCode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
