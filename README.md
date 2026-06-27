@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/learner9909/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/learner9909/LeetCode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/learner9909/LeetCode/tree/master/0135-candy) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/learner9909/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/learner9909/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/learner9909/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/learner9909/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -56,9 +57,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/learner9909/LeetCode/tree/master/0047-permutations-ii) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/learner9909/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Hash Table
 |  |
 | ------- |
+| [1679-max-number-of-k-sum-pairs](https://github.com/learner9909/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/learner9909/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/learner9909/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/learner9909/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -101,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/learner9909/LeetCode/tree/master/0223-rectangle-area) |
+## Two Pointers
+|  |
+| ------- |
+| [1679-max-number-of-k-sum-pairs](https://github.com/learner9909/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->
