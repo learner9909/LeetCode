@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/learner9909/LeetCode/tree/master/0048-rotate-image) |
+| [0223-rectangle-area](https://github.com/learner9909/LeetCode/tree/master/0223-rectangle-area) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/learner9909/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Matrix
 |  |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/learner9909/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/learner9909/LeetCode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
