@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/learner9909/LeetCode/tree/master/0135-candy) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/learner9909/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/learner9909/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/learner9909/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/learner9909/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/learner9909/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/learner9909/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/learner9909/LeetCode/tree/master/0402-remove-k-digits) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/learner9909/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Stack
 |  |
 | ------- |
