@@ -64,11 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/learner9909/LeetCode/tree/master/0047-permutations-ii) |
+| [0242-valid-anagram](https://github.com/learner9909/LeetCode/tree/master/0242-valid-anagram) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/learner9909/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/learner9909/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/learner9909/LeetCode/tree/master/0242-valid-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/learner9909/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/learner9909/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/learner9909/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/learner9909/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/learner9909/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/learner9909/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/learner9909/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/learner9909/LeetCode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/learner9909/LeetCode/tree/master/0402-remove-k-digits) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/learner9909/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
