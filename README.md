@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/learner9909/LeetCode/tree/master/0048-rotate-image) |
 | [0223-rectangle-area](https://github.com/learner9909/LeetCode/tree/master/0223-rectangle-area) |
 | [0227-basic-calculator-ii](https://github.com/learner9909/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [0258-add-digits](https://github.com/learner9909/LeetCode/tree/master/0258-add-digits) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/learner9909/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Matrix
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/learner9909/LeetCode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/learner9909/LeetCode/tree/master/0258-add-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/learner9909/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/learner9909/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
