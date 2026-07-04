@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/learner9909/LeetCode/tree/master/0048-rotate-image) |
 | [0223-rectangle-area](https://github.com/learner9909/LeetCode/tree/master/0223-rectangle-area) |
+| [0227-basic-calculator-ii](https://github.com/learner9909/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/learner9909/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Matrix
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/learner9909/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/learner9909/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/learner9909/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0227-basic-calculator-ii](https://github.com/learner9909/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/learner9909/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/learner9909/LeetCode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/learner9909/LeetCode/tree/master/0402-remove-k-digits) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/learner9909/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0402-remove-k-digits](https://github.com/learner9909/LeetCode/tree/master/0402-remove-k-digits) |
 ## Monotonic Stack
 |  |
