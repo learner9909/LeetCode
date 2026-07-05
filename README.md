@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/learner9909/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/learner9909/LeetCode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/learner9909/LeetCode/tree/master/0135-candy) |
+| [0162-find-peak-element](https://github.com/learner9909/LeetCode/tree/master/0162-find-peak-element) |
 | [1301-number-of-paths-with-max-score](https://github.com/learner9909/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/learner9909/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/learner9909/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/learner9909/LeetCode/tree/master/0162-find-peak-element) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/learner9909/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/learner9909/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
