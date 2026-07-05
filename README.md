@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/learner9909/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/learner9909/LeetCode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/learner9909/LeetCode/tree/master/0135-candy) |
+| [1301-number-of-paths-with-max-score](https://github.com/learner9909/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/learner9909/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/learner9909/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/learner9909/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/learner9909/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/learner9909/LeetCode/tree/master/0054-spiral-matrix) |
+| [1301-number-of-paths-with-max-score](https://github.com/learner9909/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/learner9909/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/learner9909/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Simulation
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/learner9909/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/learner9909/LeetCode/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/learner9909/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [1301-number-of-paths-with-max-score](https://github.com/learner9909/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/learner9909/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/learner9909/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/learner9909/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
