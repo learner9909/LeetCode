@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/learner9909/LeetCode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/learner9909/LeetCode/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/learner9909/LeetCode/tree/master/0162-find-peak-element) |
+| [1288-remove-covered-intervals](https://github.com/learner9909/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/learner9909/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/learner9909/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/learner9909/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/learner9909/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/learner9909/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/learner9909/LeetCode/tree/master/0242-valid-anagram) |
+| [1288-remove-covered-intervals](https://github.com/learner9909/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/learner9909/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/learner9909/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Hash Table
