@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/learner9909/LeetCode/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/learner9909/LeetCode/tree/master/0070-climbing-stairs) |
 | [0223-rectangle-area](https://github.com/learner9909/LeetCode/tree/master/0223-rectangle-area) |
 | [0227-basic-calculator-ii](https://github.com/learner9909/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/learner9909/LeetCode/tree/master/0258-add-digits) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/learner9909/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/learner9909/LeetCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/learner9909/LeetCode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/learner9909/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [1301-number-of-paths-with-max-score](https://github.com/learner9909/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/learner9909/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -223,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/learner9909/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/learner9909/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
