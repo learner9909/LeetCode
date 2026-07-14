@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/learner9909/LeetCode/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/learner9909/LeetCode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/learner9909/LeetCode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/learner9909/LeetCode/tree/master/0213-house-robber-ii) |
 | [0287-find-the-duplicate-number](https://github.com/learner9909/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1288-remove-covered-intervals](https://github.com/learner9909/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/learner9909/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/learner9909/LeetCode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/learner9909/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/learner9909/LeetCode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/learner9909/LeetCode/tree/master/0213-house-robber-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/learner9909/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/learner9909/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/learner9909/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
